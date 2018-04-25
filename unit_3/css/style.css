@@ -1,0 +1,36 @@
+body{
+	background-image: url(../images/apple_crisp_close_up.jpg);
+	background-size: cover;
+	color: #FFF;
+}
+h1 {
+	font-weight: bold;
+	font-family: Helvetica, sans-serif;
+}
+
+h4 { 
+	font-style: italic;
+	text-decoration: underline;
+ }
+
+
+p {
+
+}
+hr {
+	color: #FFF;
+	height: 2px; 
+ }
+
+ #slogan {
+	font-style: italic;
+	font-weight: bolder;
+}
+
+.featured_post {
+	color: #ccffff; 
+}
+
+#spotlight_post {
+	font-style: italic; 
+}

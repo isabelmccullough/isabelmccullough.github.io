@@ -1,0 +1,61 @@
+body{
+	/*background-image: url(../images/apple_crisp_close_up.jpg);*/
+	background-size: cover;
+	color: #000;
+	font-family: 'Crimson Text', serif;
+	font-size: 1.2em; 
+}
+h1 {
+	font-weight: bold;
+	font-family: 'Amatic SC', cursive;
+	font-size: 4.5em;
+	line-height: .2em;
+}
+
+h3 {
+	font-family: 'Hind Vadodara', sans-serif;
+	font-weight: 400; 
+	font-size: 1.5em;
+
+}
+
+h4 { 
+	font-style: italic;
+	text-decoration: underline;
+	font-family: 'Hind Vadodara', sans-serif;
+	font-weight: 400; 
+ }
+
+
+p {
+	
+}
+
+hr {
+	color: #000000;
+	/*height: 2px; */
+	border-style: solid; 
+	border-width: 0.5px;
+ }
+
+
+.featured_post_text {
+	color: #666666; 
+}
+
+.featured_image { 
+	width: 500px;
+ }
+
+/*#spotlight_post {
+	font-style: italic; 
+}*/ 
+
+.banner_image{
+	width: 350px;
+}
+
+#slogan {
+	font-style: italic;
+	/*font-weight: bolder;*/
+}

@@ -1,0 +1,155 @@
+body{
+	color: #000;
+	font-family: 'Crimson Text', serif;
+	font-size: 1.2em; 
+	/*text-align: center; */
+}
+
+nav{
+	/*font-family: "Amatic SC", cursive;  */
+	font-family: 'Hind Vadodara', sans-serif; 
+
+	/*line-height: .2em;  
+	font-size: 1.8em; */
+	text-align: center; 
+	/*clear: both;*/
+	background-color: #19c0fc;
+	width: 100%;
+	margin: 0px auto;
+	display: block;
+}
+
+header{
+	text-align: center;
+}
+
+main {
+	/*background-color: #ffb7cf; */
+	border: 1px black solid; 
+	padding: 20px;
+	margin-top: 20px; 
+}
+
+article{
+	text-align: left; 
+	display: inline-block;
+	margin: 2%;
+	padding: .5%;
+	/*margin-top: 10px; 
+	padding: 5px;*/
+	/*background-color: #ff5588; */
+}
+
+footer{ 
+	background-color: #666666; 
+	color: #FFF;
+	padding: 15px;
+	margin: 0;
+ }
+
+h1 {
+	font-weight: bold;
+	font-family: 'Amatic SC', cursive;
+	font-weight: 500; 
+	font-size: 4.5em;
+	line-height: 1.25em;
+}
+
+h3 {
+	font-family: 'Hind Vadodara', sans-serif; 
+	font-size: 1.5em;
+	margin-bottom: .45em;
+}
+
+h4 { 
+	font-style: italic;
+	text-decoration: underline;
+	font-family: 'Hind Vadodara', sans-serif;
+	font-weight: 400; 
+ }
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.nav_button{
+	/*background-color: #23D6FA;*/ 
+	/*background-color: #19c0fc;*/
+	display: block;
+	float: left;
+	/*margin: 15px 8px;*/
+	padding: 14px 30px;
+	color: #fff;
+	text-decoration: none; 
+	font-size: 0.8em; 
+	/*font-weight: 700; */
+}
+
+.nav_button:hover{
+	color: #dddddd;
+}
+
+.banner_image{
+	width: 24%;
+	float: left;
+	margin: .5%;
+}
+
+.post_image { 
+	width: 95%;
+	/*float: left; */
+	margin: 3px 15px 8px 0; 
+ }
+
+#featured_image {
+	width: 45%;
+	float: left;
+}
+
+#body_wrapper{
+	max-width: 1200px; 
+	text-align: center;
+	margin: auto;
+}
+
+#top_banner {
+	clear: both;
+}
+
+#column1 {
+	/*background-color: #e582a2;*/
+	border: 1px black solid; 
+	float: left; 
+	width: 70%;
+}
+
+#main_post, #column1a, #column1b{ 
+	width: 45%;
+
+	float: left;
+	vertical-align: top; 
+ }
+
+#main_post {
+	width: 95%;
+}
+
+
+
+#column1b{ 
+	float: right;
+ }
+
+#column2 {
+	/*background-color: #e55b88; */
+	border: 1px black solid; 
+	padding: 20px;
+	float: right; 
+	width: 24%;
+}
+/*End Unit 6 Assignment*/

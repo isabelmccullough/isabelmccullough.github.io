@@ -1,0 +1,148 @@
+body{
+	/*background-image: url(../images/apple_crisp_close_up.jpg);*/
+	background-size: cover;
+	color: #000;
+	font-family: 'Crimson Text', serif;
+	font-size: 1.2em; 
+	/*text-align: center; */
+}
+h1 {
+	font-weight: bold;
+	font-family: 'Amatic SC', cursive;
+	font-size: 4.5em;
+	line-height: .2em;
+}
+
+h3 {
+	font-family: 'Hind Vadodara', sans-serif;
+	font-weight: 400; 
+	font-size: 1.5em;
+
+}
+
+h4 { 
+	font-style: italic;
+	text-decoration: underline;
+	font-family: 'Hind Vadodara', sans-serif;
+	font-weight: 400; 
+ }
+
+
+p {
+	
+}
+
+hr {
+	color: #000000;
+	/*height: 2px; */
+	border-style: solid; 
+	border-width: 0.5px;
+ }
+
+ img {
+ 	margin: 0px;
+ }
+
+
+/*For Unit 5 Assignment*/
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+    max-width: 500px;
+    /*display: inline-block;*/
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+/*End Unit 5 Assignment*/
+
+/*header{
+	text-align: center;
+}
+nav{
+	font-family: "Amatic SC", cursive;  
+	line-height: .2em;  
+	font-size: 1.8em; 
+}
+
+article{
+	text-align: left; 
+	display: inline-block;
+	max-width: 400px; 
+}*/
+.nav_button{
+	background-color: #23D6FA; 
+	display: inline-block;
+	margin: 5px 8px;
+	padding: 5px 25px;
+}
+
+.featured_post_text {
+	color: #666666; 
+	/*text-align: left; */
+}
+
+.featured_image { 
+	width: 500px;
+ }
+
+/*#spotlight_post {
+	font-style: italic; 
+}*/ 
+
+.banner_image{
+	width: 350px;
+}
+
+#slogan {
+	font-style: italic;
+	/*font-weight: bolder;*/
+}
+
+/*Unit 6 Assignment*/
+#two_column {
+	background-color: #ffb7cf; 
+	border: 1px black solid; 
+	padding: 20px;
+}
+
+#left {
+	background-color: #e582a2;
+	border: 1px black solid; 
+	padding: 20px;
+}
+
+#right {
+	background-color: #e55b88; 
+	border: 1px black solid; 
+	padding: 20px;
+}
+/*End Unit 6 Assignment*/
